@@ -147,7 +147,9 @@ navigine.com
 Sensor Fusion: Combines smartphone sensors (accelerometer, gyroscope) with positioning signals 
 MDPI
 
-Dependencies
+
+
+## Dependencies
 
 Accurate station floor plan and facility data
 
@@ -168,6 +170,3 @@ Accessibility: Supports passengers with disabilities
 Operational Efficiency: Reduces crowding and optimizes flow of foot traffic
 
 Real-Time Communication: Changes in stations reflected instantly in navigation routes
-
-## Dependencies
-
